@@ -15,3 +15,5 @@ flowchart LR
   Start --> A --> B --> C --> D --> E --> F --> G
   G --> H1 --> End
   G --> H2 --> End
+
+Cerrar bloque mermaid
