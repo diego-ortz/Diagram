@@ -1,4 +1,3 @@
-```mermaid
 flowchart LR
   Start((Inicio))
   A[Medir O₂, Temp, Hum, Movimiento]
@@ -15,5 +14,3 @@ flowchart LR
   Start --> A --> B --> C --> D --> E --> F --> G
   G --> H1 --> End
   G --> H2 --> End
-
-Cerrar bloque mermaid
